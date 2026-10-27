@@ -1,0 +1,6 @@
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "A pane that always shows the context window broken down as /context breaks it: used of window, each category, buffer and free space",
+  "author": { "name": "siavash-smf" }
+}

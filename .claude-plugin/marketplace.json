@@ -1,0 +1,6 @@
+{
+  "name": "context-meter",
+  "description": "A Claude Code mod that keeps the context window breakdown in view",
+  "owner": { "name": "siavash-smf" },
+  "plugins": [{ "name": "context-meter", "source": "./" }]
+}
